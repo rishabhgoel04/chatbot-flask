@@ -1,4 +1,4 @@
-Rule Based Chatbot
+Rule Based Chatbot flask
 ===================
 
 This repository contains the code for chatbot. I have developed this chatbot using template based approach.
